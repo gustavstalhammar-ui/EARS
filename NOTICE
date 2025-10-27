@@ -1,0 +1,13 @@
+NOTICE
+
+The author’s intent is that the EARS package is used for non-commercial
+academic and research purposes. This notice expresses intent only and does
+not modify or restrict the terms of the MIT License. See LICENSE for legally
+binding license terms.
+
+Citation of the following article is appreciated if this software is used
+in research or publications:
+
+Stålhammar G. (2025). "Introducing the Event-Adjusted Rank Sum (EARS) Test:
+A Simple Approach to Survival Analysis Independent of Proportional Hazards."
+BioMed Research International.
