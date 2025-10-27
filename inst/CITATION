@@ -2,16 +2,15 @@ citHeader("To cite EARS in publications, please use:")
 
 citEntry(
   entry    = "Article",
-  title    = "Event-Adjusted Rank Sum (EARS) Test for Survival Analysis",
+  title    = "Introducing the Event-Adjusted Rank Sum (EARS) Test: A Simple Approach to Survival Analysis Independent of Proportional Hazards",
   author   = person("Gustav", "Stålhammar"),
-  journal  = "Journal Name",
+  journal  = "BioMed Research International",
   year     = "2025",
-  volume   = "",
-  pages    = "",
-  doi      = "10.XXXX/xxxxx",
   textVersion = paste(
-    "Stålhammar G. (2025). Event-Adjusted Rank Sum (EARS) Test for Survival Analysis.",
-    "Journal Name. doi:10.XXXX/xxxxx"
+    "Stålhammar G. (2025). Introducing the Event-Adjusted Rank Sum (EARS) Test:",
+    "A Simple Approach to Survival Analysis Independent of Proportional Hazards.",
+    "BioMed Research International."
   )
 )
+
 
