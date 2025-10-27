@@ -4,7 +4,7 @@ Title: Event-Adjusted Rank Sum Test for Survival Analysis
 Version: 0.1.0
 Authors@R: person("Gustav", "Stålhammar", role = c("aut","cre"), email = "gustav.stalhammar@ki.se")
 Description: A non-parametric method that adjusts observed event times by the group-specific event proportion and uses a Kruskal–Wallis test with a censoring adjustment.
-License: GPL-3
+License: MIT + file LICENSE
 Encoding: UTF-8
 Depends: R (>= 3.6.0)
 Imports: stats
