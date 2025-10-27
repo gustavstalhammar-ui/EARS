@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "EARS: Event-Adjusted Rank Sum test for survival analysis"
+message: "If you use this software, please cite the paper below."
+type: software
+authors:
+  - family-names: Stålhammar
+    given-names: Gustav
+    orcid: "https://orcid.org/0000-0001-9401-8911"
+repository-code: "https://github.com/gustavstalhammar-ui/EARS"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Introducing the Event-Adjusted Rank Sum (EARS) Test: A Simple Approach to Survival Analysis Independent of Proportional Hazards"
+  authors:
+    - family-names: Stålhammar
+      given-names: Gustav
+  journal: "BioMed Research International"
+  year: 2025
+  notes: "Accepted for publication"
